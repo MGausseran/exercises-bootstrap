@@ -1,1 +1,1 @@
-# exercises-bootstrap
+# Entraînement à Bootstrap
